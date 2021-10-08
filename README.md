@@ -2,6 +2,11 @@
 
 ```
 Je m'appel Justany ITOUA et j'aime le code ainsi que la programmation...
+
+Au fait mes repositorys sont privées donc pas visible, par ce que 90% des projets sur lesquels je travaille ont des
+clauses de Confidentialité et l'interdiction de rendre le code source public.
+
+###### Mais avec la mise en ligne de mon site web je rednrais certains codes sources public et même celui de mon site web
 ```
 
 - 👋 Hi, I’m @Justany
