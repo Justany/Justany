@@ -15,7 +15,7 @@ clauses de Confidentialité et l'interdiction de rendre le code source public.
 - 💞️ Les partenariats dans le sens des Entreprises m'intéresse et tout autant que les collaboration
 - 📫 How to reach me ? ...
 
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Justany/Justany/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 <!---
 Justany/Justany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
