@@ -1,4 +1,8 @@
-###### Résumé sur moi
+#####
+
+## Entrepreneur, et développeurs Full Stack, apprendre et transmettre mes connaissances, sont pour moi les meilleures façons de contribuer au développement.
+
+Je suis passionée de la programmation et aime entreprendre, prendre les risque et pousser au loin mes limites, afin de réaliser mes rêves. Je pense que la technologie peut nous aider à rendre facile bien de choses dans la vie, et c'est pour celà que j'apprends casiqment tout le temps, afin de transmettre plus facilement ce que je sais.# Résumé sur moi
 
 ```
 Je m'appel Justany ITOUA et j'aime le code ainsi que la programmation...
@@ -21,3 +25,6 @@ clauses de Confidentialité et l'interdiction de rendre le code source public.
 Justany/Justany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
