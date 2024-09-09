@@ -2,7 +2,11 @@
 
 ## Entrepreneur, et développeurs Full Stack, apprendre et transmettre mes connaissances, sont pour moi les meilleures façons de contribuer au développement.
 
-Je suis passionée de la programmation et aime entreprendre, prendre les risque et pousser au loin mes limites, afin de réaliser mes rêves. Je pense que la technologie peut nous aider à rendre facile bien de choses dans la vie, et c'est pour celà que j'apprends casiqment tout le temps, afin de transmettre plus facilement ce que je sais.# Résumé sur moi
+Entrepreneur et développeur full-stack passionné, je crois fermement que l'apprentissage et le partage de connaissances sont les meilleures façons de contribuer au développement des technologies. Fort de mon expertise en développement web et mobile, j'aime relever les défis de l'entrepreneuriat, prendre des risques calculés, et repousser mes limites pour réaliser mes ambitions.
+
+Convaincu que la technologie peut simplifier de nombreux aspects de la vie quotidienne, je me consacre à l'apprentissage continu. Cette quête constante de connaissances me permet de transmettre efficacement ce que j'apprends et de contribuer activement à l'innovation technologique. Je suis motivé par l'idée de créer des solutions numériques qui font la différence, tout en partageant mon savoir-faire avec d'autres.
+
+### Résumé sur moi
 
 ```
 Je m'appel Justany ITOUA et j'aime le code ainsi que la programmation...
