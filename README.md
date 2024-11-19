@@ -6,8 +6,6 @@ Entrepreneur et développeur full-stack passionné, je crois fermement que l'app
 
 Convaincu que la technologie peut simplifier de nombreux aspects de la vie quotidienne, je me consacre à l'apprentissage continu. Cette quête constante de connaissances me permet de transmettre efficacement ce que j'apprends et de contribuer activement à l'innovation technologique. Je suis motivé par l'idée de créer des solutions numériques qui font la différence, tout en partageant mon savoir-faire avec d'autres.
 
-Entrepreneur et développeur full-stack passionné, je combine expertise en développement web et mobile avec une forte envie d'apprendre et de partager mes connaissances. Convaincu que la technologie peut simplifier la vie, je suis en quête continue d'innovation et d'amélioration. Mon engagement envers l'entrepreneuriat me pousse à repousser mes limites pour créer des solutions numériques impactantes tout en transmettant mon savoir-faire à ceux qui m'entourent.
-
 ### Résumé sur moi
 
 ```
